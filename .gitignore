@@ -1,0 +1,6 @@
+# 数据集与训练产物不提交
+datasets/
+runs/
+dataset/
+*.cache
+__pycache__/
